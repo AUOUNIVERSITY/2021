@@ -1,5 +1,10 @@
 @font-face {
-   font-family: 'MSJHBD';
+   font-family: 'Gill Sans MT Bold Condensed';
    font-display: swap;
-   src: url('MSJHBD/font.ttf');
+   src: url('Gill Sans MT Bold Condensed/font.ttf');
+}
+@font-face {
+   font-family: 'Gill Sans MT Medium';
+   font-display: swap;
+   src: url('Gill Sans MT Medium/font.ttf');
 }
